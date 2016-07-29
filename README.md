@@ -1,7 +1,7 @@
 # Reverse-progam
 C programming problem
 
-#include <stdio.h>
+include <stdio.h>
 int main()
 {
     int n, reversedNumber = 0, remainder;
